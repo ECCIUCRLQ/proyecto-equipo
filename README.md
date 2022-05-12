@@ -7,9 +7,9 @@ CI-0119
 Documento de Diseño
 
 
-Jeremy Espinoza
-Daniel Pinto
-Andrew Umaña
+Jeremy Espinoza  
+Daniel Pinto  
+Andrew Umaña  
 
 
 
