@@ -1,4 +1,4 @@
-Proyecto Integrador de Lenguaje Ensamblador y Arquitectura
+# Proyecto Integrador de Lenguaje Ensamblador y Arquitectura
 
 
 CI-0119
@@ -16,15 +16,15 @@ Andrew Umaña
 UCR - ECCI
 
 
-Tareas
+######  Tareas
 
-Etapa I
+######  Etapa I
 Etapa inicial donde se inicializa el proyecto y el estudiante empieza a construir las bases para el dispositivo. 
 Uso de github
 Aprender a utilizar herramientas de github.
 Utilizar github para crear una lista de temas e introducción.
 
- Filtros
+Filtros
 Investigar filtros de cámaras fotográficas y analizar su validez para efectos de este proyecto.
 Escoger filtros interesantes, mínimo 4, pero mantener un número mayor con varias posibilidades, de lo contrario el proyecto puede demorarse si un filtro da problemas en implementación y no se tiene otras opciones preparadas.
 
@@ -51,7 +51,7 @@ Subir el material finalizado de la etapa I al repositorio de github.
 
 Debido al diseño del curso, se añadirán tareas en las próximas etapas y se expandirán con el progreso del proyecto, cuando tengamos una visión más completa y con más entendimiento y experiencia del tema que se está trabajando.
 
-Etapa II 
+###### Etapa II 
 Código.
 Aplicar las habilidades y conocimientos en simics para aplicar el diseño del modelo.
 Subir el código en el repositorio.
@@ -61,7 +61,7 @@ Actualizar tareas.
 Investigar el uso de wiki para proyectos.
 Aplicar y actualizar el wiki con el resumen del proyecto, temas, detalles, etc.
 
-Etapa III
+###### ###### Etapa III
 Repositorio
 Actualizar tareas.
 Actualizar wiki.
@@ -73,7 +73,7 @@ Aplicar lo aprendido y crear diagramas que expliquen el funcionamiento del model
 
 
 
-Etapa IV
+###### Etapa IV
 
 Repositorio
 Actualizar tareas.
