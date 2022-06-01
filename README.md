@@ -22,10 +22,10 @@ UCR - ECCI
 - [Resumen del producto](https://github.com/ECCIUCRLQ/proyecto-equipo/blob/main/Etapa%201/Resumen%20proyecto.md)
 
 
-Etapa I
-- Tareas
-- Wiki 
-- Código 
+[Etapa II](https://github.com/ECCIUCRLQ/proyecto-equipo/tree/main/Etapa%202)
+- [Tareas](https://github.com/ECCIUCRLQ/proyecto-equipo/issues/3)
+- [Wiki](https://github.com/ECCIUCRLQ/proyecto-equipo/wiki)
+- [Código] 
 
 ## Resumen del producto final
 El producto final consiste en un dispositivo virtualizado (1) que captura imágenes de formato bitmap y utiliza no menos de cuatro filtros antes de almacenar el resultado con sus metadatos respectivos (fecha de captura, tamaño, etc.) en una pc virtualizada. Los filtros por desarrollar para el dispositivo son el Sepia, Negativo, Heat Map, Bokeh, Amaro y 1977. 
