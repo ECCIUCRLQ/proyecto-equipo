@@ -15,7 +15,7 @@ Andrew Umaña
 
 UCR - ECCI
 
-[Etapa I](https://github.com/ECCIUCRLQ/proyecto-equipo/tree/main/Etapa%201)
+[Etapa I](https://github.com/ECCIUCRLQ/proyecto-equipo/tree/main/Etapa%20I)
 - [Tareas](https://github.com/ECCIUCRLQ/proyecto-equipo/issues/2)
 - [Temas y conocimientos](https://github.com/ECCIUCRLQ/proyecto-equipo/blob/main/Etapa%201/Temas%20y%20conocimientos.md)
 - [Filtros](https://github.com/ECCIUCRLQ/proyecto-equipo/blob/main/Etapa%201/Filtros.md)
