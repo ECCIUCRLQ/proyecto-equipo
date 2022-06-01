@@ -1,0 +1,5 @@
+- Uso de herramientas adicionales de Git (wiki, issues, formato, etc)
+- Entendimiento y aplicación de los conceptos de driver, virtualización y protocolo
+- Uso de los conceptos anteriores para formular código base tomando en cuenta que estos conceptos serán aplicados en futuras etapas
+- Programación en SIMICS
+- Uso de DML
