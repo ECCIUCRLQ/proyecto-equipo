@@ -26,4 +26,5 @@ UCR - ECCI
 - [Temas y conocimientos](https://github.com/ECCIUCRLQ/proyecto-equipo/blob/main/Etapa%202/Temas%20y%20conocimientos.md)
 - [Código] 
 
-- [Tareas](https://github.com/ECCIUCRLQ/proyecto-equipo/issues)
+
+[Tareas](https://github.com/ECCIUCRLQ/proyecto-equipo/issues)
