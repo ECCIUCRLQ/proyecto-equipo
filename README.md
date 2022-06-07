@@ -27,4 +27,4 @@ UCR - ECCI
 - [Código] 
 
 
-[Tareas](https://github.com/ECCIUCRLQ/proyecto-equipo/issues)
+[Tareas](https://github.com/ECCIUCRLQ/proyecto-equipo/projects/1)
