@@ -14,6 +14,12 @@ Este diseño contiene, en orden presentado en la imagen;
 ![Diseño](https://user-images.githubusercontent.com/56287760/171331662-9dd27edd-53ca-4d50-ab91-b60635354431.png)
 
 
+Este mapa fluye de la siguiente manera:
+
+1. El dispositivo virtualizado se comunica con el protocolo.
+2. El protocolo se comunica con el driver, este permite la comunicación entre el dispositivo y el computador/programa.
+3. A este se le aplican las pruebas de validación para cerciorar su correcto funcionamiento.
+
 Se utilizara este diseño para crear un sistema que proporcione lo siguiente;
 - Inicializar el dispositivo virtualizado
 - Arrancar y/o utilizar el driver para comunicar el dispositivo con la PC
