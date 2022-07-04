@@ -33,3 +33,6 @@ UCR - ECCI
 
 
 [Tareas](https://github.com/ECCIUCRLQ/proyecto-equipo/projects/1)
+
+
+[Notas para revisión de la tercera etapa](https://github.com/ECCIUCRLQ/proyecto-equipo/blob/main/Notas%20revisi%C3%B3n.md)
