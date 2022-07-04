@@ -23,7 +23,7 @@ UCR - ECCI
 
 [Etapa II](https://github.com/ECCIUCRLQ/proyecto-equipo/tree/main/Etapa%20II)
 - [Wiki](https://github.com/ECCIUCRLQ/proyecto-equipo/wiki)
-- [Temas y conocimientos](https://github.com/ECCIUCRLQ/proyecto-equipo/blob/main/Etapa%202/Temas%20y%20conocimientos.md)
+- [Temas y conocimientos](https://github.com/ECCIUCRLQ/proyecto-equipo/blob/main/Etapa%20II/Temas%20y%20conocimientos.md)
 - [Código](https://github.com/ECCIUCRLQ/proyecto-equipo/tree/main/simics-project/modules) 
 
 
