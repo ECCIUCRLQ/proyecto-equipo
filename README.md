@@ -33,9 +33,9 @@ UCR - ECCI
 
 [Etapa IV](https://github.com/ECCIUCRLQ/proyecto-equipo/tree/main/Etapa%20III)
 
-- [Temas y conocimientos](https://github.com/ECCIUCRLQ/proyecto-equipo/blob/main/Etapa%20III/Temas%20y%20conocimientos)
-- [Código](https://github.com/ECCIUCRLQ/proyecto-equipo/tree/main/simics-project/driver) 
-- [Producto final](https://github.com/ECCIUCRLQ/proyecto-equipo/tree/main/simics-project/driver) 
+- [Temas y conocimientos](to do)
+- [Código](to do)
+- [Producto final](to do)
 
 
 [Tareas](https://github.com/ECCIUCRLQ/proyecto-equipo/projects/1)
