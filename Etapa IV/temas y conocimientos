@@ -1,0 +1,4 @@
+- Dominio en lenguaje ensamblador x64-x86
+- Previo conocimiento adquirido en la Etapa III sobre programacion en Kernel (linux)
+- Entendimiento de la conexion entre dispositivo PCI, Driver y aplicacion de filtros
+- Matematica necesaria operaciones para cambiar valores RGB
