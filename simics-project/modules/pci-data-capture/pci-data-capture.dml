@@ -181,4 +181,8 @@ bank bmp_image is function_mapped_bank {
     	field green [2];
     	field reserved [3];
     }
+    register opcion_filtro size 4 @ 0x60 {
+        is read_only;
+        param init_val = 0x0;
+    } 
 }
