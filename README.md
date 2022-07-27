@@ -33,7 +33,7 @@ UCR - ECCI
 
 [Etapa IV](https://github.com/ECCIUCRLQ/proyecto-equipo/tree/main/Etapa%20III)
 
-- [Temas y conocimientos](to do)
+- [Temas y conocimientos](https://github.com/ECCIUCRLQ/proyecto-equipo/blob/main/Etapa%20IV/temas%20y%20conocimientos)
 - [Código](to do)
 - [Producto final](to do)
 
