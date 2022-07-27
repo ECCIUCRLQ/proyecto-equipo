@@ -1,0 +1,1 @@
+cmd_/home/jeremyucr/simics-projects/projecto/proyecto-equipo/simics-project/driver/pci_capture_module.o := ld  -m elf_x86_64    -r -o /home/jeremyucr/simics-projects/projecto/proyecto-equipo/simics-project/driver/pci_capture_module.o /home/jeremyucr/simics-projects/projecto/proyecto-equipo/simics-project/driver/pci_capture_driver.o

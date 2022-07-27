@@ -1,0 +1,1 @@
+cmd_/home/jeremyucr/simics-projects/projecto/proyecto-equipo/simics-project/driver/Module.symvers := sed 's/\.ko$$/\.o/' /home/jeremyucr/simics-projects/projecto/proyecto-equipo/simics-project/driver/modules.order | scripts/mod/modpost -m -a  -o /home/jeremyucr/simics-projects/projecto/proyecto-equipo/simics-project/driver/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/jeremyucr/simics-projects/projecto/proyecto-equipo/simics-project/driver/modules.order := {   echo /home/jeremyucr/simics-projects/projecto/proyecto-equipo/simics-project/driver/pci_capture_module.ko; :; } | awk '!x[$$0]++' - > /home/jeremyucr/simics-projects/projecto/proyecto-equipo/simics-project/driver/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/jeremyucr/simics-projects/projecto/proyecto-equipo/simics-project/driver/pci_capture_module.mod := { echo  /home/jeremyucr/simics-projects/projecto/proyecto-equipo/simics-project/driver/pci_capture_driver.o;  echo; } > /home/jeremyucr/simics-projects/projecto/proyecto-equipo/simics-project/driver/pci_capture_module.mod
