@@ -33,7 +33,8 @@ Ilustración 2 - Imagen bajo filtro negativo.
 Ilustración 3 - Imagen bajo filtro blanco y negro.  
 
 ###### 3D
-![girasol_NEGATIVE](https://user-images.githubusercontent.com/56287760/181346470-ea71bd5b-e8a6-4223-8460-0630c2a01485.png)  
+![girasol_3D](https://user-images.githubusercontent.com/56287760/181349268-2798d623-38f1-498b-9533-f08448ab6dea.png)
+
 Ilustración 4 - Imagen bajo filtro 3D.  
 
 
