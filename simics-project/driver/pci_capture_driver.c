@@ -21,6 +21,7 @@
 //new
 #define PCI_ANCHURA_OFFSET 0x18
 #define PCI_ALTURA_OFFSET 0x1c
+#define PCI_OPCION_FILTER_OFFSET 0x60
 
 /* IOCTL */
 #define WR_VALUE _IOW('a', 'a', int32_t *)
@@ -437,6 +438,15 @@ uint32_t read_Altura(void) {//get altura
     pci_capture_data = (struct pci_driver_internal_data *) pci_get_drvdata(pci_dev);
     altura = ioread32(pci_capture_data->hwmem + PCI_ALTURA_OFFSET);
     return altura;
+}
+
+uint32_t read_opcion_filter(void) {//get altura
+    uint32_t opcion_filter;
+    struct pci_driver_internal_data *pci_capture_data;
+    
+    pci_capture_data = (struct pci_driver_internal_data *) pci_get_drvdata(pci_dev);
+    opcion_filter = ioread32(pci_capture_data->hwmem + PCI_OPCION_FILTER_OFFSET);
+    return opcion_filter;
 }
     
     
