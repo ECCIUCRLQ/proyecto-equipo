@@ -8,7 +8,6 @@ Documento de Diseño
 
 
 Jeremy Espinoza  
-Daniel Pinto  
 Andrew Umaña  
 
 
