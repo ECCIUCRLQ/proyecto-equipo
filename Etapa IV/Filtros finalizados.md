@@ -1,6 +1,6 @@
 ######  Filtros finalizados
 
-Se prepararon y aplicaron 5 filtros diferentes;
+Se prepararon y aplicaron 5 filtros diferentes;     
 1)Negativo
 2)Blanco y negro
 3)3D
