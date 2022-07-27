@@ -442,9 +442,9 @@ uint32_t read_Altura(void) {//get altura
     
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Ernesto Ulate Ramirez <ernesto.ulate.ramirez@intel.com>");
-MODULE_DESCRIPTION("Test PCI driver");
-MODULE_VERSION("1.0");
+MODULE_AUTHOR("Jeremy Espinoza y Andrew Umanha");
+MODULE_DESCRIPTION("Camara con aplicacion de filtros");
+MODULE_VERSION("2.0");
 MODULE_DEVICE_TABLE(pci, pci_capture_driver_table);
 
 module_init(init_pci_capture_driver);
