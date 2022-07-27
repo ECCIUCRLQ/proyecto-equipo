@@ -31,11 +31,11 @@ UCR - ECCI
 - [Temas y conocimientos](https://github.com/ECCIUCRLQ/proyecto-equipo/blob/main/Etapa%20III/Temas%20y%20conocimientos)
 - [Código](https://github.com/ECCIUCRLQ/proyecto-equipo/tree/main/simics-project/driver) 
 
-[Etapa IV](https://github.com/ECCIUCRLQ/proyecto-equipo/tree/main/Etapa%20III)
+[Etapa IV](https://github.com/ECCIUCRLQ/proyecto-equipo/tree/main/Etapa%20IV)
 
 - [Temas y conocimientos](https://github.com/ECCIUCRLQ/proyecto-equipo/blob/main/Etapa%20IV/temas%20y%20conocimientos)
 - [Código de aplicación](https://github.com/ECCIUCRLQ/proyecto-equipo/tree/main/simics-project/aplicacion)
-- [Filtros finalizados](to do)
+- [Filtros finalizados](https://github.com/ECCIUCRLQ/proyecto-equipo/blob/main/Etapa%20IV/Filtros%20finalizados.md)
 
 
 [Tareas](https://github.com/ECCIUCRLQ/proyecto-equipo/projects/1)
